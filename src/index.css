@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  background: #f6f7f9;
+  color: #111827;
+  -webkit-font-smoothing: antialiased;
+}
+
+input,
+select,
+button {
+  font: inherit;
+}
