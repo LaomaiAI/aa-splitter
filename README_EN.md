@@ -2,7 +2,7 @@
 
 After a dinner, a trip, or shared rent, see who pays whom and how much, in one click, with the fewest transfers possible.
 
-Live demo: not deployed yet. The real link will be added here after deployment.
+Live demo: https://laomaiai.github.io/aa-splitter/
 
 ## What it is
 
